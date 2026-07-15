@@ -2,7 +2,7 @@
 
 Welcome! This repository contains the latest version of my resume.
 
-I'm a Senior Graphic Designer and Art Director with 20+ years of experience designing digital experiences, brands, marketing campaigns, and learning solutions for Fortune 500 organizations.
+I'm a Senior Visual Designer and Art Director with 20+ years of experience designing digital experiences and building brands for Fortune 500 companies.
 
 I'm currently expanding my expertise in UX/UI design and enjoy creating thoughtful, user-centered experiences that blend strategy, storytelling, and technology.
 
