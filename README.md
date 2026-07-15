@@ -13,6 +13,7 @@ I'm currently expanding my expertise in UX/UI design and enjoy creating thoughtf
 🌐 [myportfolio.com](https://jeniferszwejbka.com/)
 
 ### Connect
-<a href="https://www.linkedin.com/in/jeniferx/">
+<a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn"/>
-</a> [LinkedIn](https://www.linkedin.com/in/jeniferx/)
+</a> 
+[LinkedIn](https://www.linkedin.com/in/jeniferx/)
