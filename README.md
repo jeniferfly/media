@@ -7,10 +7,10 @@ I'm a Senior Graphic Designer and Art Director with 20+ years of experience desi
 I'm currently expanding my expertise in UX/UI design and enjoy creating thoughtful, user-centered experiences that blend strategy, storytelling, and technology.
 
 ### Resume
-📄 [Resume.pdf] [https://2be610f5-1eca-4255-96d9-ac53c049604f.usrfiles.com/ugd/2be610_87b56485e95c4f229a1475f4cf97a0bd.pdf]
+📄 [Resume.pdf](https://2be610f5-1eca-4255-96d9-ac53c049604f.usrfiles.com/ugd/2be610_87b56485e95c4f229a1475f4cf97a0bd.pdf)
 
 ### Portfolio
-🌐 [yourportfolio.com](https://jeniferszwejbka.com/)
+🌐 [myportfolio.com](https://jeniferszwejbka.com/)
 
 ### Connect
-[LinkedIn] [https://www.linkedin.com/in/jeniferx/]
+[LinkedIn](https://www.linkedin.com/in/jeniferx/)
