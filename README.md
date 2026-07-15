@@ -13,4 +13,4 @@ I'm currently expanding my expertise in UX/UI design and enjoy creating thoughtf
 🌐 [myportfolio.com](https://jeniferszwejbka.com/)
 
 ### Connect
-[LinkedIn](https://www.linkedin.com/in/jeniferx/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeniferx/)
